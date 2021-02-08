@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "seatizen",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
